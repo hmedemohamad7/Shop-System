@@ -1,0 +1,15 @@
+c:\users\hp\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\bin\Debug\System Shop Update.exe.config
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\bin\Debug\System Shop Update.exe
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\bin\Debug\System Shop Update.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\bin\Debug\MaterialSkin.dll
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System_Shop_Update.Billing.resources
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System_Shop_Update.Customers.resources
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System_Shop_Update.Form1.resources
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System_Shop_Update.Form2.resources
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System_Shop_Update.Items.resources
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System_Shop_Update.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System Shop Update.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System Shop Update.exe
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System Shop Update.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System Shop Update.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\System Shop Update\System Shop Update\obj\Debug\System_Shop_Update.ViewBills.resources
